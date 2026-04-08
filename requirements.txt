@@ -1,3 +1,4 @@
 kafka-python
 elasticsearch==7.17
 rx==3.2.0
+pytest
