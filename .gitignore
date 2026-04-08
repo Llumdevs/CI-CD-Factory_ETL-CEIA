@@ -1,0 +1,13 @@
+# Entorno
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Python
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.idea/
